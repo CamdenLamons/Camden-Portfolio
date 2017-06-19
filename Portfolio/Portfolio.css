@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+hr{
+    width: 90%;
+}
+a{
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #808080;
+}
+.name{
+    margin-top: 75px;
+    width: 100%;
+    font-size: 40px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: #000000;
+}
+.futureJob{
+    margin-top: 10px;
+    width: 100%;
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: #000000;
+}
+.info{
+    margin-top: 50px;
+    margin-left: 15%;
+    width: 70%;
+    font-size: 20px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.linkHeading{
+    margin-top: 50px;
+    margin-left: 15%;
+    width: 70%;
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    color: #808080;
+}
+.links{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center; 
+}
+.row{
+    width: 33.33%;
+    font-size: 25px;
+    font-family: cursive;
+    color: #808080;
+}
