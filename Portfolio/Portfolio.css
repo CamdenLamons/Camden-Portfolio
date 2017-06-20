@@ -48,6 +48,17 @@ a:hover{
     text-align: center;
     color: #000000;
 }
+.subheader{
+    margin-top: 25px;
+    width: 100%;
+    font-size: 25px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
 .info{
     margin-top: 25px;
     margin-left: 15%;
