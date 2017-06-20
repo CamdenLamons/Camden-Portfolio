@@ -14,6 +14,9 @@ a{
     text-align: center;
     color: #808080;
 }
+a:hover{
+    color: #d3d3d3;
+}
 .name{
     margin-top: 75px;
     width: 100%;
@@ -59,12 +62,14 @@ a{
     color: #808080;
 }
 .links{
+    margin-top: 5px;
     width: 100%;
     height: 100px;
     display: flex;
     justify-content: center; 
 }
 .row{
+    margin-top: 5px;
     width: 33.33%;
     font-size: 25px;
     font-family: cursive;
