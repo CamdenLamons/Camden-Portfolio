@@ -95,3 +95,16 @@ a:hover{
     font-family: cursive;
     color: #808080;
 }
+.imgCotanter{
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 50%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
